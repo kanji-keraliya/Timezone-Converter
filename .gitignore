@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TimeConverter/.vs
+/TimeConverter/bin
+/TimeConverter/obj
